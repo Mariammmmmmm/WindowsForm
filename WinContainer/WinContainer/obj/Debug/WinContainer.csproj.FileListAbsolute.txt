@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\maria\source\repos\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\maria\source\repos\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\maria\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.pdb
