@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
