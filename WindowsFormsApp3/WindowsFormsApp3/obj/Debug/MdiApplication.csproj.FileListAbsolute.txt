@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MdiApplication.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ParentForm.resources
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ChildForm.resources
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\maria\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
