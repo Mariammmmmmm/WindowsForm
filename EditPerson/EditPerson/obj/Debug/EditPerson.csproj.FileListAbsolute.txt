@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\maria\source\repos\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\maria\source\repos\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.exe
+C:\Users\maria\source\repos\EditPerson\EditPerson\obj\Debug\EditPerson.pdb
