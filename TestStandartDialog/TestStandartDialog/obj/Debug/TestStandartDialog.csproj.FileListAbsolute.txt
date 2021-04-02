@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\Users\maria\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
