@@ -1,0 +1,9 @@
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\bin\Debug\WinAnim.exe.config
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\bin\Debug\WinAnim.exe
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\bin\Debug\WinAnim.pdb
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\obj\Debug\WinAnim.Form1.resources
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\obj\Debug\WinAnim.exe
+C:\Users\ex10se\source\repos\WinAnim\WinAnim\obj\Debug\WinAnim.pdb
