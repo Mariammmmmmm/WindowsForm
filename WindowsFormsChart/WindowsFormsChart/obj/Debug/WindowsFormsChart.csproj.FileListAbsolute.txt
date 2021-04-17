@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\bin\Debug\WindowsFormsChart.exe.config
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\bin\Debug\WindowsFormsChart.exe
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\bin\Debug\WindowsFormsChart.pdb
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.dat.resources
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.Properties.Resources.resources
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.exe
+C:\Users\maria\source\repos\WindowsFormsChart\WindowsFormsChart\obj\Debug\WindowsFormsChart.pdb
