@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\bin\Debug\WinGrafSinLine.exe.config
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\bin\Debug\WinGrafSinLine.exe
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\bin\Debug\WinGrafSinLine.pdb
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.Properties.Resources.resources
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.exe
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.pdb
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.edit.resources
+C:\Users\maria\source\repos\WinGrafSinLine\WinGrafSinLine\obj\Debug\WinGrafSinLine.Operation.resources
