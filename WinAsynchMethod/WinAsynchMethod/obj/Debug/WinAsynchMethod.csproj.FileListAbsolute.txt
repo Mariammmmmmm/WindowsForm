@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\maria\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
