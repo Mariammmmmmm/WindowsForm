@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">опрл</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">чсмить</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">прол</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">вапр</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">тест</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">тест</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">nnnn</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">fgh</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">дла</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">авыа</LastName>
+    <Age xmlns="http://www.MyCompany.com">11</Age>
+  </Person>
+</ArrayOfPerson>
