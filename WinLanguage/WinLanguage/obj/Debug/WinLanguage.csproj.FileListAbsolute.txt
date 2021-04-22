@@ -1,0 +1,13 @@
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\bin\Debug\WinLanguage.exe.config
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\bin\Debug\WinLanguage.exe
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\bin\Debug\WinLanguage.pdb
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.Form1.resources
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.Properties.Resources.resources
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.exe
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.pdb
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\bin\Debug\ru\WinLanguage.resources.dll
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\WinLanguage.Form1.ru.resources
+C:\Users\maria\source\repos\WinLanguage\WinLanguage\obj\Debug\ru\WinLanguage.resources.dll
